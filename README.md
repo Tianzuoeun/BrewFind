@@ -21,4 +21,5 @@ Also you can keep a log of which breweries you have visited so you can tell othe
 
 [BrewFind Storyboard](https://projects.invisionapp.com/share/VF102Q8KRP3Z#/screens/443685950)
 
-![BrewFindNearYouPage](https://imgur.com/a/5HqBDXT)
+
+![BrewFindNearyou](https://user-images.githubusercontent.com/46360340/106367013-a7732d00-630d-11eb-8db2-4c8452475fac.png)
