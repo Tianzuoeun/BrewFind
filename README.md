@@ -3,6 +3,7 @@
 
 Design Document  
 Austin Walder
+Tianzuo Huang
 
 ## Introduction 
 Have you ever been to a new city or region and thought, "Where can I get a drink around here?" With BrewFind you can:
@@ -23,3 +24,10 @@ Also you can keep a log of which breweries you have visited so you can tell othe
 
 
 ![BrewFindNearyou](https://user-images.githubusercontent.com/46360340/106367013-a7732d00-630d-11eb-8db2-4c8452475fac.png)
+
+## Functional Requirements
+### 1. As a
+#### Example 1
+** Given **:
+** When **:
+** Then **:
